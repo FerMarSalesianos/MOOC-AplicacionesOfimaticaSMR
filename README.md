@@ -57,9 +57,9 @@ Mi objetivo es mejorar progresivamente el diseño y la aplicación de estos inst
 
 Aquí iré añadiendo los enlaces a las actividades desarrolladas durante el curso:
 
-- Actividad 1: UNIDAD 1. Marco normativo y fundamentos del Proyecto Intermodular
+- Actividad 1: [UNIDAD 1. Marco normativo y fundamentos del Proyecto Intermodular](./doc/Actividades/A1.md)
 
-- Actividad 2: UNIDAD 2. Metodologías y diseño de un reto o proyecto intermodular
+- Actividad 2:
 
 - Actividad 3:
 
