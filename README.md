@@ -59,7 +59,7 @@ Aquí iré añadiendo los enlaces a las actividades desarrolladas durante el cur
 
 - Actividad 1: [UNIDAD 1. Marco normativo y fundamentos del Proyecto Intermodular](./doc/Actividades/A1.md)
 
-- Actividad 2:
+- Actividad 2: [UNIDAD 2. Metodologías y diseño de un reto o proyecto intermodular](./doc/Actividades/A2.md)
 
 - Actividad 3:
 
