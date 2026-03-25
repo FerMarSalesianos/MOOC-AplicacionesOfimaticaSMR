@@ -63,6 +63,6 @@ Aquí iré añadiendo los enlaces a las actividades desarrolladas durante el cur
 
 - Actividad 3: [UNIDAD 3. Crea un tutor IA personalizado para tu proyecto](./doc/Actividades/A3.md)
 
-- Actividad 4:
+- Actividad 4: [UNIDAD 4. Diseño del trabajo en equipo, planificación y evaluación del Proyecto Intermodular](./doc/Actividades/A4.md)
 
 ---
