@@ -61,7 +61,7 @@ Aquí iré añadiendo los enlaces a las actividades desarrolladas durante el cur
 
 - Actividad 2: [UNIDAD 2. Metodologías y diseño de un reto o proyecto intermodular](./doc/Actividades/A2.md)
 
-- Actividad 3:
+- Actividad 3: [UNIDAD 3. Crea un tutor IA personalizado para tu proyecto](./doc/Actividades/A3.md)
 
 - Actividad 4:
 
